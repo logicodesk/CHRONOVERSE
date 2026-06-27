@@ -1,0 +1,6 @@
+{
+  "name": "Chronoverse",
+  "description": "A world-class cinematic scrolling journey through the complete history of Earth and Humanity, from the Age of Giants to the Future of Civilization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
